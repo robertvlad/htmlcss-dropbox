@@ -43,10 +43,6 @@ header{
 /* ------- MAIN ------ */
 /* Jumbotron */
 
-.light-blue-background .container-75{
-    margin-bottom: 100px;
-}
-
 .txt-jumbo h1{
     font-size: 71px;
     padding: 120px 0 30px;
@@ -57,7 +53,7 @@ header{
 }
 
 .jumbo-content p{
-    font-size: 20px;
+    font-size: 14px;
 }
 
 .btn-jumbo-container{
@@ -109,23 +105,23 @@ header{
     font-size: 25px;
 }
 
-.padding-15 ul{
+.padding-bottom-15 ul{
     display: flex;
 }
 
-.padding-30 ul{
+.padding-bottom-30 ul{
     display: flex;
 }
 
-.padding-15 ul li{
+.padding-bottom-15 ul li{
     padding-left: 5px;
 }
 
-.padding-30 ul li{
+.padding-bottom-30 ul li{
     padding-left: 5px;
 }
 
-.padding-30 a{
+.buy-now-underline a{
     color: #0061ff;
     text-decoration: underline;
 }
@@ -135,11 +131,11 @@ header{
 }
 
 .btn-col-30{
-    padding: 10px 35px;
+    padding: 10px 17px;
 }
 
 .btn-col-30-small{
-    padding: 10px 88px;
+    padding: 10px 70px;
 }
 
 hr{
@@ -166,3 +162,15 @@ hr{
 
 
 /* Search a partner */
+
+.col-60 img{
+    width: 100%;
+}
+
+.btn-white-partner{
+    padding: 10px;
+    border: 1px solid #000000;
+    color: #000000;
+}
+
+/* 2 row 6 col */

@@ -21,16 +21,12 @@ main{
     width: 30%;
 }
 
-.col-40{
-    width: 40%;
+.col-50{
+    width: 50%;
 }
 
 .col-60{
     width: 60%;
-}
-
-.col-50{
-    width: 50%;
 }
 
 .col-70{
@@ -46,13 +42,13 @@ main{
     width: 100%;
 }
 
-.container-70{
-    width: 70%;
+.container-60{
+    width: 60%;
     margin: 0 auto;
 }
 
-.container-75{
-    width: 75%;
+.container-65{
+    width: 65%;
     margin: 0 auto;
 }
 
@@ -97,11 +93,11 @@ a{
     background-color: #b4d0e7;
 }
 
-.padding-15{
+.padding-bottom-15{
     padding-bottom: 15px;
 }
 
-.padding-30{
+.padding-bottom-30{
     padding-bottom: 30px;
 }
 
@@ -113,6 +109,14 @@ a{
     padding: 30px 0 20px;
 }
 
+.padding-bottom-19{
+    padding-bottom: 19px;
+}
+
 .border-col{
     border: 1px solid #000000;
+}
+
+.margin-bottom-100{
+    margin-bottom: 100px;
 }

@@ -1,0 +1,35 @@
+/* Top bar */
+
+header{
+    height: 60px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.ul-header{
+    font-size: 15px;
+}
+
+.ul-header li a{
+    padding-right: 15px;
+    color: #494747;
+}
+
+.logo{
+    padding: 0 20px;
+}
+
+.menu-header{
+    padding-top: 5px;
+}
+
+.header-right{
+    flex-direction: row-reverse;
+}
+
+.btn-header{
+    padding: 7px 12px;
+    margin: 15px;
+    vertical-align: middle;
+}

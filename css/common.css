@@ -19,8 +19,6 @@ main{
 
 .col-30{
     width: 30%;
-    height: 100px;
-    background-color: red;
 }
 
 .col-40{
@@ -35,11 +33,12 @@ main{
     width: 50%;
 }
 
-.col-100{
-    width: 100%;
+.col-80{
+    width: 80%;
+    margin: 0 auto;
 }
 
-.container-100{
+.col-100{
     width: 100%;
 }
 
@@ -51,6 +50,10 @@ main{
 .container-75{
     width: 75%;
     margin: 0 auto;
+}
+
+.container-100{
+    width: 100%;
 }
 
 
@@ -88,4 +91,12 @@ a{
 
 .light-blue-background{
     background-color: #b4d0e7;
+}
+
+.padding-15{
+    padding-bottom: 15px;
+}
+
+.padding-30{
+    padding-bottom: 30px;
 }

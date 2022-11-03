@@ -93,7 +93,23 @@ header{
     padding-right: 40px;
 }
 
-.billing-option{
-    padding-bottom: 35px;
+.upper-col-3-prices{
+    border-bottom: 1px solid #000000;
+    text-align: center;
+    vertical-align: middle;
+    padding: 7px;
+}
+
+.name-plan{
+    font-size: 18px;
+}
+
+.col-plan{
+    border: 1px solid #000000;
+}
+
+.type-of-plan{
+    font-size: 25px;
+    padding: 30px 0 20px;
 }
 

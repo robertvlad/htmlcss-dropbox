@@ -174,3 +174,7 @@ hr{
 }
 
 /* 2 row 6 col */
+
+.col-30 img{
+    width: 100%;
+}

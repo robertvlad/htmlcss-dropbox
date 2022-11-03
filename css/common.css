@@ -33,6 +33,10 @@ main{
     width: 50%;
 }
 
+.col-70{
+    width: 70%;
+}
+
 .col-80{
     width: 80%;
     margin: 0 auto;
@@ -99,4 +103,16 @@ a{
 
 .padding-30{
     padding-bottom: 30px;
+}
+
+.padding-0-20{
+    padding: 0 20px;
+}
+
+.padding-30-20{
+    padding: 30px 0 20px;
+}
+
+.border-col{
+    border: 1px solid #000000;
 }

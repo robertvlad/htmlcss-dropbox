@@ -105,13 +105,8 @@ header{
     font-size: 18px;
 }
 
-.col-plan{
-    border: 1px solid #000000;
-}
-
 .type-of-plan{
     font-size: 25px;
-    padding: 30px 0 20px;
 }
 
 .padding-15 ul{
@@ -155,9 +150,19 @@ hr{
     color: #0061ff;
 }
 
-.description-plan{
-    padding: 30px 0 20px;
+
+/* Enterprise plan */
+
+.up-enterprise-plan{
+    border-bottom: 1px solid #000000;
+    text-align: center;
+    vertical-align: middle;
+    padding: 7px;
+}
+
+.right-col-enterprise{
+    flex-direction: row-reverse;
 }
 
 
-/* Enterprise plan */
+/* Search a partner */

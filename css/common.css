@@ -10,14 +10,32 @@
 
 .row{
     width: 100%;
+    display: flex;
+}
+
+.col-40{
+    width: 40%;
+}
+
+.col-60{
+    width: 60%;
 }
 
 .col-50{
     width: 50%;
 }
 
+.col-100{
+    width: 100%;
+}
+
 .container-100{
     width: 100%;
+}
+
+.container-75{
+    width: 75%;
+    margin: 0 auto;
 }
 
 
@@ -51,4 +69,8 @@ a{
     background-color: #0061ff;
     border: 1px solid #0061ff;
     color: #ffffff;
+}
+
+.light-blue-background{
+    background-color: #b4d0e7;
 }

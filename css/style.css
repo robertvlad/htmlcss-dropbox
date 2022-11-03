@@ -8,6 +8,7 @@ header{
     align-items: center;
     position: fixed;
     background-color: #ffffff;
+    z-index: 1;
 }
 
 .ul-header{
@@ -40,6 +41,10 @@ header{
 
 /* ------- MAIN ------ */
 /* Jumbotron */
+
+.light-blue-background .container-75{
+    margin-bottom: 100px;
+}
 
 .txt-jumbo h1{
     font-size: 71px;
@@ -75,3 +80,20 @@ header{
 .arrow{
     font-size: 50px;
 }
+
+
+/* 3 prices plans */
+
+.h2-3-plans h2{
+    font-size: 45px;
+    margin-bottom: 40px;
+}
+
+#radio-btn-left{
+    padding-right: 40px;
+}
+
+.billing-option{
+    padding-bottom: 35px;
+}
+

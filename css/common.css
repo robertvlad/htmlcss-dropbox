@@ -5,12 +5,22 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 
+main{
+    z-index: 0;
+}
+
 
 /* row and column and container */
 
 .row{
     width: 100%;
     display: flex;
+}
+
+.col-30{
+    width: 30%;
+    height: 100px;
+    background-color: red;
 }
 
 .col-40{
@@ -31,6 +41,11 @@
 
 .container-100{
     width: 100%;
+}
+
+.container-70{
+    width: 70%;
+    margin: 0 auto;
 }
 
 .container-75{

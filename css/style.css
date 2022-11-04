@@ -240,3 +240,21 @@ header{
 .hr-col-60{
     width: 100%;
 }
+
+
+/* Footer */
+
+
+footer{
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.ul-menu-footer li a{
+    color: #ffffff;
+}
+
+.ul-menu-footer li {
+    padding-bottom: 20px;
+    font-size: 14px;
+}

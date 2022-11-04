@@ -223,3 +223,20 @@ header{
 .full-img-table{
     width: 50%;
 }
+
+.text-red{
+    color: #61082b;
+    font-size: 27px;
+}
+
+.btn-white-img-table{
+    background-color: #ffffff;
+    padding: 8px 30px;
+}
+
+
+/* FAQ */
+
+.hr-col-60{
+    width: 100%;
+}

@@ -121,10 +121,6 @@ header{
     padding-left: 5px;
 }
 
-.buy-now-underline a{
-    color: #0061ff;
-    text-decoration: underline;
-}
 .btn-buy-now{
     text-align: center;
     padding: 30px 0;
@@ -136,10 +132,6 @@ header{
 
 .btn-col-30-small{
     padding: 10px 70px;
-}
-
-hr{
-    width: 50px;
 }
 
 .check-blue{
@@ -173,8 +165,61 @@ hr{
     color: #000000;
 }
 
+
 /* 2 row 6 col */
 
 .col-30 img{
     width: 100%;
+}
+
+
+/* Our clients */
+
+/* ------- */
+
+.img-background-1 img, .img-background-2 img, .img-background-3 img, .img-background-4 img, .img-background-5 img, .img-background-6 img, .img-background-7 img, .img-background-8 img{
+    width: 100%;
+    transform: scale(0.5);
+    filter: invert(100%);
+}
+
+.img-background-1{
+    background-color: #a2d39b;
+    border: 10px solid #d1e9cd;
+}
+
+.img-background-2{
+    background-color: #61082b;
+}
+
+.img-background-3{
+    background-color: #0093ce;
+}
+
+.img-background-4{
+    background-color: #ff1c1c;
+}
+
+.img-background-5{
+    background-color: #d5001f;
+}
+
+.img-background-6{
+    background-color: #b4d0e7;
+}
+
+.img-background-7{
+    background-color: #0d2481;
+}
+
+.img-background-8{
+    background-color: #ffd830;
+}
+
+.img-background-big{
+    background-color: #f5f5f5;
+}
+
+.full-img-table{
+    width: 50%;
 }

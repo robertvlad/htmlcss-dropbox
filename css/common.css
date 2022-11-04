@@ -17,8 +17,16 @@ main{
     display: flex;
 }
 
+.col-14{
+    width: calc(100% / 6);
+}
+
 .col-30{
     width: 30%;
+}
+
+.col-33{
+    width: calc(100% / 3)
 }
 
 .col-50{
@@ -117,6 +125,24 @@ a{
     border: 1px solid #000000;
 }
 
+.margin-vertical-40{
+    margin: 40px 0;
+}
+
 .margin-bottom-100{
     margin-bottom: 100px;
+}
+
+.link-underline a{
+    color: #0061ff;
+    text-decoration: underline;
+}
+
+.ratio-1-to-1{
+    aspect-ratio: 1/1;
+}
+
+hr{
+    width: 70px;
+    color: #000000;
 }

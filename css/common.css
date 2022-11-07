@@ -153,3 +153,14 @@ hr{
     width: 70px;
     color: #000000;
 }
+
+/* Common css in other pages ------------------------------------------------ */
+
+.container-50{
+    width: 50%;
+    margin: 0 auto;
+}
+
+.col-40{
+    width: 40%;
+}

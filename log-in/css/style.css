@@ -6,3 +6,42 @@
     font-size: 20px;
     color: #000000;
 }
+
+.box-log-in{
+    padding: 10px;
+    border: 1px solid #000000;
+}
+
+.box-log-in .col-90{
+    text-align: center;
+}
+
+.txt-log-in-box{
+    font-size: 16px;
+    color: #000000;
+}
+
+.hr-log-in{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.box-input{
+    width: 303.84px;
+    height: 30px;
+}
+
+.box-imput-txt-above{
+    padding-bottom: 5px;
+}
+
+.btn-log-in{
+    padding: 7px 12px;
+    vertical-align: middle;
+    border-radius: 5px;
+}
+
+.btn-log-in-end{
+    text-align: end;
+}

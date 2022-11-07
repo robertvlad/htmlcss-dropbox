@@ -65,7 +65,7 @@ main{
 }
 
 
-/* Flex */
+/* Flex and align */
 
 .flex{
     display: flex;
@@ -77,6 +77,10 @@ main{
 
 .align-items{
     align-items: center;
+}
+
+.text-align-center{
+    text-align: center;
 }
 
 
@@ -149,7 +153,7 @@ a{
     aspect-ratio: 1/1;
 }
 
-hr{
+.hr-70px{
     width: 70px;
     color: #000000;
 }
@@ -163,4 +167,12 @@ hr{
 
 .col-40{
     width: 40%;
+}
+
+.col-10{
+    width: 10%;
+}
+
+.col-90{
+    width: 90%;
 }
